@@ -33,11 +33,11 @@ After running the script it will create an `output.xlsx` file which will contain
 
 **Input image**
 
-<img src="imgs/lena.png" width=400>
+<img src="imgs/me.jpg" width=400>
 
 **Output spreadsheet**
 
-<img src="imgs/lenaexcel.JPG" width=400>
+<img src="imgs/me-after.jpg" width=400>
 
 #### Project Origionaly developed by David Takacs
 
