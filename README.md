@@ -27,7 +27,7 @@ Images larger than 128x128 are downsampled because these excel files would be to
 
 `./image2excel.py <input image>`
 
-After running the script it will create an `output.xls` file which will contain the spreadsheet image.
+After running the script it will create an `output.xlsx` file which will contain the spreadsheet image.
 
 ### Example
 
@@ -39,11 +39,15 @@ After running the script it will create an `output.xls` file which will contain 
 
 <img src="imgs/lenaexcel.JPG" width=400>
 
-#### School project
+#### Project Origionaly developed by David Takacs
 
-This was an optional project for the course *Introduction to Python* at my university.
-
+This was an optional project that Davaid Takacs (takacs on GitHub) completed for the course *Introduction to Python* 
+at is university.
 Course website: 
 [https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Acad.Py2019febr](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Acad.Py2019febr)
+
+I am using this project for a demo in my IT 101 class at Green River College
+greenriver.edu
+
 
 
